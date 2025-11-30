@@ -166,3 +166,10 @@ Express.js
 MongoDB + Mongoose
 
 JSON Web Tokens (JWT)
+
+
+<img width="1907" height="933" alt="Screenshot 2025-11-30 173726" src="https://github.com/user-attachments/assets/d22ac750-6365-416c-8984-7bb57dc9299f" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-30 153802" src="https://github.com/user-attachments/assets/838c3641-a65b-4c72-b0f0-295e631ef081" />
+
+<img width="1899" height="695" alt="Screenshot 2025-11-30 152657" src="https://github.com/user-attachments/assets/4d1106f1-8dcb-42e4-942e-734c5c9d986d" />
